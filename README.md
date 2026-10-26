@@ -1,6 +1,6 @@
 # Sleep, Screen Time and Stress Analysis
 
-Final Project, Unit 3: Individual Data Exploration and Dashboard Development.
+Unit 3 Project
 
 This project explores how smartphone use and sleep habits relate to stress. It includes a full exploratory data analysis in a Jupyter notebook and an interactive Streamlit dashboard.
 
@@ -78,4 +78,4 @@ Install Jupyter, open `EDA_Project.ipynb` and run all cells. Keep the original C
 
 ## Author
 
-Add your name here.
+Hassan Alsowaiq
